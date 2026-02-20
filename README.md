@@ -1,6 +1,6 @@
 # Habit Tracker
 
-A minimal, dark-themed habit tracker that runs entirely in the browser. No accounts, no server, no dependencies — just HTML, CSS, and vanilla JS backed by `localStorage`.
+A minimal, dark-themed habit tracker that runs entirely in the browser. No accounts, no server, no dependencies. Just HTML, CSS, and vanilla JS backed by `localStorage`.
 
 ---
 
